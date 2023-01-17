@@ -1,3 +1,5 @@
+//This workks as a gateway between the main screen and splashscreen
+
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';

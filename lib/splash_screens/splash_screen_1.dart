@@ -11,12 +11,12 @@ class SplahScreen1 extends StatelessWidget {
     final screenSize = MediaQuery.of(context).size;
     return Scaffold(
       appBar: AppBar(
-        title: const Text('SBI'),
+        title: const Text('SBI'), //The name
         centerTitle: true,
       ),
       body: Center(
         child: Image.asset(
-          'assets/images/SBI-logo.png',
+          'assets/images/SBI-logo.png', //The logo
         ),
       ),
     );
